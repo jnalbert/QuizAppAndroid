@@ -1,0 +1,156 @@
+[
+  {
+    "question": "Which president was the first to pardon a turkey?",
+    "answer": "John F Kennedy",
+    "choices": [
+      "John F Kennedy",
+      "Franklin Delano Roosevelt",
+      "Joe Biden",
+      "George Washington"
+
+    ]
+  },
+  {
+    "question": "Which item of cutlery was only invented 10 years after the first Thanksgiving?",
+    "answer": "The fork",
+    "choices": [
+      "The spoon",
+      "The knife",
+      "The fork",
+      "The spork"
+    ]
+  },
+  {
+    "question": "Where was pizza invented?",
+    "answer": "Naples, Italy",
+    "choices": [
+      "Paris, France",
+      "Naples, Italy",
+      "New York, New York",
+      "Boston, Massachusetts"
+
+    ]
+  },
+  {
+    "question": "How many different shapes of pasta are there?",
+    "answer": "Over 600",
+    "choices": [
+      "785",
+      "Over 600",
+      "Over 1200",
+      "239"
+    ]
+  },
+  {
+    "question": "What cheese is the Netherlands famous for making?",
+    "answer": "Gouda",
+    "choices": [
+      "Cheddar",
+      "American Cheese",
+      "Swiss",
+      "Gouda"
+    ]
+  },
+  {
+    "question": "What cheese is the Netherlands famous for making?",
+    "answer": "Gouda",
+    "choices": [
+      "Cheddar",
+      "American Cheese",
+      "Swiss",
+      "Gouda"
+    ]
+  },
+  {
+    "question": "What is a wiener schnitzel traditionally made of?",
+    "answer": "Veal",
+    "choices": [
+      "Beef",
+      "Lamb",
+      "Veal",
+      "Kangaroo"
+    ]
+  },
+  {
+    "question": "Which country consumes the most coffee?",
+    "answer": "The Netherlands",
+    "choices": [
+      "The United States",
+      "The Netherlands",
+      "Brazil",
+      "Portugal"
+    ]
+  },
+  {
+    "question": "Where was the popular curry, the chicken Tikka Masala invented?",
+    "answer": "Glasgow, Scotland",
+    "choices": [
+      "Glasgow, Scotland",
+      "Delhi, India",
+      "Mumbai, India",
+      "Chicken, Alaska"
+
+    ]
+  },
+  {
+    "question": "What expensive shellfish were once seen as peasant food?",
+    "answer": "Lobster",
+    "choices": [
+      "Lobster",
+      "Oysters",
+      "Limpets",
+      "Clams"
+    ]
+  },
+  {
+    "question": "Which fruit technically has a wasp inside of it?",
+    "answer": "Figs",
+    "choices": [
+      "Papaya",
+      "Figs",
+      "Passion Fruit",
+      "Mango"
+    ]
+  },
+  {
+    "question": "How Many Years Of Sushi Chef Training Does It Take To Be Trusted To Make The Rice?",
+    "answer": "5 years",
+    "choices": [
+      "10 years",
+      "1 years",
+      "3 years",
+      "5 years"
+    ]
+  },
+  {
+    "question": "Peanut Butter Was Turned Into What Mineral By Scientists?",
+    "answer": "Diamond",
+    "choices": [
+      "A Ruby",
+      "Zinc",
+      "Diamond",
+      "Quartz"
+    ]
+  },
+  {
+    "question": "Which Nut Is Used To Make Dynamite?",
+    "answer": "Peanuts",
+    "choices": [
+      "Almonds",
+      "Walnuts",
+      "Peanuts",
+      "Cashews"
+    ]
+  },
+  {
+    "question": "In What Country Was Ice Cream Invented?",
+    "answer": "China",
+    "choices": [
+      "United States",
+      "India",
+      "Nigeria",
+      "China"
+
+    ]
+  }
+]
