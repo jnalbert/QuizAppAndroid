@@ -1,12 +1,13 @@
 package com.example.quizapp
 
-data class Quiz(
+class Quiz(
     var currentIndex: Int = 0,
     var score: Int = 0,
     var questions: List<Question>
 ) {
-    fun getNextQuestion(): Question {
-        currentIndex++
+
+    fun getCurrentQuestion(): Question {
+
         return questions[currentIndex]
     }
     fun isNextQuestion(): Boolean {
@@ -15,8 +16,21 @@ data class Quiz(
     fun isAnswerCorrect(choice: String): Boolean{
         if (choice == questions[currentIndex].answer) {
             score++
+            currentIndex++
             return true
+        } else {
+            currentIndex++
+            return false
         }
-        return false;
     }
+    // make a shuffle function
+    fun shuffleQuestions() {
+        questions = questions.shuffled()
+    }
+
+    fun restartQuiz() {
+        currentIndex = 0
+        score = 0
+    }
+
 }

@@ -1,5 +1,13 @@
 [
   {
+    "question": "Is ice cream a soup?",
+    "answer": "Maybe??",
+    "choices": [
+      "Yes Totally",
+      "Maybe??"
+    ]
+  },
+  {
     "question": "Which president was the first to pardon a turkey?",
     "answer": "John F Kennedy",
     "choices": [
@@ -32,6 +40,14 @@
     ]
   },
   {
+    "question": "Is a hot dog a sandwich?",
+    "answer": "Yes",
+    "choices": [
+      "No",
+      "Yes"
+    ]
+  },
+  {
     "question": "How many different shapes of pasta are there?",
     "answer": "Over 600",
     "choices": [
@@ -49,6 +65,15 @@
       "American Cheese",
       "Swiss",
       "Gouda"
+    ]
+  },
+  {
+    "question": "Is the tomato a fruit or vegetable?",
+    "answer": "No way it's all lies",
+    "choices": [
+      "No",
+      "Yes",
+      "No way it's all lies"
     ]
   },
   {
@@ -120,6 +145,14 @@
       "1 years",
       "3 years",
       "5 years"
+    ]
+  },
+  {
+    "question": "Is ice cream a soup?",
+    "answer": "Maybe??",
+    "choices": [
+      "Yes Totally",
+      "Maybe??"
     ]
   },
   {
