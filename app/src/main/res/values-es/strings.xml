@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="questions">Preguntas</string>
+    <string name="main_buttonA">Botón</string>
+    <string name="main_buttonB">Botón</string>
+    <string name="main_buttonC">Botón</string>
+    <string name="main_buttonD">Botón</string>
+    <string name="main_finalScore">Puntos Final:</string>
+    <string name="main_playAgain">Juega de Nuevo</string>
+    <string name="main_score">Puntos:</string>
+    <string name="main_yourFinalScore">Tus Puntos Finales</string>
+</resources>

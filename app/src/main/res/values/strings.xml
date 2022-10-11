@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">QuizApp</string>
+    <string name="questions">Questions</string>
+    <string name="main_buttonA">Button</string>
+    <string name="main_buttonB">Button</string>
+    <string name="main_buttonC">Button</string>
+    <string name="main_buttonD">Button</string>
+    <string name="main_finalScore">Final Score:</string>
+    <string name="main_playAgain">Play Again</string>
+    <string name="main_score">Score:</string>
+    <string name="main_yourFinalScore">Your Final Score is:</string>
 </resources>

@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
     companion object {
         private const val TAG = "MainActivity"
     }
+    var scoreString = R.string.main_score.toString()
     lateinit var quiz: Quiz
     lateinit var activeQuizGroup: Group
     lateinit var scoreText: TextView
@@ -33,7 +34,7 @@ class MainActivity : AppCompatActivity() {
         wireWidgets()
 
         // initial values
-        scoreText.text = "Score: 0/0"
+        scoreText.text = "${scoreString} 0/0"
         // sets the listeners for the buttons
         setListeners()
         displayNewQuestion()
@@ -68,7 +69,7 @@ class MainActivity : AppCompatActivity() {
         // checks if the answer is correct
         quiz.isAnswerCorrect(button.text.toString())
         // update the score
-        scoreText.text = "Score: ${quiz.score}/${quiz.currentIndex}"
+        scoreText.text = "${scoreString} ${quiz.score}/${quiz.currentIndex}"
         displayNewQuestion()
     }
 
@@ -81,7 +82,7 @@ class MainActivity : AppCompatActivity() {
 
     fun resetQuiz() {
         quiz.restartQuiz()
-        scoreText.text = "Score: 0/0"
+        scoreText.text = "$scoreString 0/0"
         activeQuizGroup.visibility = Group.VISIBLE
         finalScoreGroup.visibility = Group.GONE
         displayNewQuestion()
