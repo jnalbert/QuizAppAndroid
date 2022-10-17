@@ -16,7 +16,6 @@ class MainActivity : AppCompatActivity() {
     companion object {
         private const val TAG = "MainActivity"
     }
-    var scoreString = R.string.main_score.toString()
     lateinit var quiz: Quiz
     lateinit var activeQuizGroup: Group
     lateinit var scoreText: TextView
@@ -34,7 +33,7 @@ class MainActivity : AppCompatActivity() {
         wireWidgets()
 
         // initial values
-        scoreText.text = "${scoreString} 0/0"
+        scoreText.text = getString(R.string.main_score, "0/0")
         // sets the listeners for the buttons
         setListeners()
         displayNewQuestion()
@@ -69,20 +68,20 @@ class MainActivity : AppCompatActivity() {
         // checks if the answer is correct
         quiz.isAnswerCorrect(button.text.toString())
         // update the score
-        scoreText.text = "${scoreString} ${quiz.score}/${quiz.currentIndex}"
+        scoreText.text = getString(R.string.main_score, "${quiz.score}/${quiz.currentIndex}")
         displayNewQuestion()
     }
 
     fun endQuiz() {
         activeQuizGroup.visibility = Group.GONE
         finalScoreGroup.visibility = Group.VISIBLE
-        finalScoreText.text = "Your final score is ${quiz.score}/${quiz.currentIndex}"
+        finalScoreText.text = getString(R.string.main_yourFinalScore, "${quiz.score}/${quiz.currentIndex}")
         playAgainButton.setOnClickListener { resetQuiz() }
     }
 
     fun resetQuiz() {
         quiz.restartQuiz()
-        scoreText.text = "$scoreString 0/0"
+        scoreText.text = getString(R.string.main_score, "0/0")
         activeQuizGroup.visibility = Group.VISIBLE
         finalScoreGroup.visibility = Group.GONE
         displayNewQuestion()
@@ -108,7 +107,7 @@ class MainActivity : AppCompatActivity() {
 
         quiz = Quiz(0, 0, questions)
         Log.d(TAG, "loadQuestions: ${quiz.questions}")
-//        quiz.shuffleQuestions()
+        quiz.shuffleQuestions()
     }
 
     fun wireWidgets() {

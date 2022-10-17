@@ -31,6 +31,7 @@ class Quiz(
     fun restartQuiz() {
         currentIndex = 0
         score = 0
+        shuffleQuestions()
     }
 
 }

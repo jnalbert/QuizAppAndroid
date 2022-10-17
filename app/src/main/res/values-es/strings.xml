@@ -6,8 +6,8 @@
     <string name="main_buttonB">Botón</string>
     <string name="main_buttonC">Botón</string>
     <string name="main_buttonD">Botón</string>
-    <string name="main_finalScore">Puntos Final:</string>
+    <string name="main_finalScore">Puntos Final: %1$s</string>
     <string name="main_playAgain">Juega de Nuevo</string>
-    <string name="main_score">Puntos:</string>
-    <string name="main_yourFinalScore">Tus Puntos Finales</string>
+    <string name="main_score">Puntos: %1$s</string>
+    <string name="main_yourFinalScore">Tus Puntos Finales: %1$s</string>
 </resources>

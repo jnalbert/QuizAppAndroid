@@ -58,16 +58,6 @@
     ]
   },
   {
-    "question": "What cheese is the Netherlands famous for making?",
-    "answer": "Gouda",
-    "choices": [
-      "Cheddar",
-      "American Cheese",
-      "Swiss",
-      "Gouda"
-    ]
-  },
-  {
     "question": "Is the tomato a fruit or vegetable?",
     "answer": "No way it's all lies",
     "choices": [

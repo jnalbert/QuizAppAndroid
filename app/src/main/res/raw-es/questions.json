@@ -1,14 +1,14 @@
 [
   {
-    "question": "Is ice cream a soup?",
-    "answer": "Maybe??",
+    "question": "¿El helado es una sopa?",
+    "answer": "¿¿Quizás??",
     "choices": [
-      "Yes Totally",
-      "Maybe??"
+      "Si totalmente",
+      "¿¿Quizás??"
     ]
   },
   {
-    "question": "Which president was the first to pardon a turkey?",
+    "question": "¿Qué presidente fue el primero en perdonar a un pavo?",
     "answer": "John F Kennedy",
     "choices": [
       "John F Kennedy",
@@ -19,17 +19,17 @@
     ]
   },
   {
-    "question": "Which item of cutlery was only invented 10 years after the first Thanksgiving?",
-    "answer": "The fork",
+    "question": "¿Qué artículo de cubertería se inventó solo 10 años después del primer Día de Acción de Gracias?",
+    "answer": "El tenedor",
     "choices": [
-      "The spoon",
-      "The knife",
-      "The fork",
-      "The spork"
+      "La cuchara",
+      "El cuchillo",
+      "El tenedor",
+      "El spork"
     ]
   },
   {
-    "question": "Where was pizza invented?",
+    "question": "¿Dónde se inventó la pizza?",
     "answer": "Naples, Italy",
     "choices": [
       "Paris, France",
@@ -40,25 +40,25 @@
     ]
   },
   {
-    "question": "Is a hot dog a sandwich?",
-    "answer": "Yes",
+    "question": "¿Un perrito caliente es un sándwich?",
+    "answer": "Sí",
     "choices": [
       "No",
-      "Yes"
+      "Sí"
     ]
   },
   {
-    "question": "How many different shapes of pasta are there?",
-    "answer": "Over 600",
+    "question": "¿Cuántas formas diferentes de pasta hay?",
+    "answer": "más de 600",
     "choices": [
       "785",
-      "Over 600",
-      "Over 1200",
+      "más de 600",
+      "más de 1200",
       "239"
     ]
   },
   {
-    "question": "What cheese is the Netherlands famous for making?",
+    "question": "¿Qué queso es famoso por hacer en los Países Bajos?",
     "answer": "Gouda",
     "choices": [
       "Cheddar",
@@ -68,46 +68,36 @@
     ]
   },
   {
-    "question": "Is the tomato a fruit or vegetable?",
-    "answer": "No way it's all lies",
+    "question": "¿El tomate es una fruta o una verdura?",
+    "answer": "De ninguna manera todo son mentiras",
     "choices": [
       "No",
-      "Yes",
-      "No way it's all lies"
+      "Sí",
+      "De ninguna manera todo son mentiras"
     ]
   },
   {
-    "question": "What cheese is the Netherlands famous for making?",
-    "answer": "Gouda",
+    "question": "¿De qué está hecho tradicionalmente un schnitzel vienés?",
+    "answer": "Ternera",
     "choices": [
-      "Cheddar",
-      "American Cheese",
-      "Swiss",
-      "Gouda"
+      "Carne de res",
+      "Cordero",
+      "Ternera",
+      "Canguro"
     ]
   },
   {
-    "question": "What is a wiener schnitzel traditionally made of?",
-    "answer": "Veal",
+    "question": "¿Qué país consume más café?",
+    "answer": "Los países bajos",
     "choices": [
-      "Beef",
-      "Lamb",
-      "Veal",
-      "Kangaroo"
-    ]
-  },
-  {
-    "question": "Which country consumes the most coffee?",
-    "answer": "The Netherlands",
-    "choices": [
-      "The United States",
-      "The Netherlands",
-      "Brazil",
+      "Los Estados Unidos",
+      "Los países bajos",
+      "Brasil",
       "Portugal"
     ]
   },
   {
-    "question": "Where was the popular curry, the chicken Tikka Masala invented?",
+    "question": "¿Dónde quedó el popular curry, el pollo Tikka Masala inventado?",
     "answer": "Glasgow, Scotland",
     "choices": [
       "Glasgow, Scotland",
@@ -118,68 +108,60 @@
     ]
   },
   {
-    "question": "What expensive shellfish were once seen as peasant food?",
-    "answer": "Lobster",
+    "question": "¿Qué mariscos caros alguna vez se consideraron comida campesina?",
+    "answer": "Langosta",
     "choices": [
-      "Lobster",
-      "Oysters",
-      "Limpets",
-      "Clams"
+      "Langosta",
+      "ostras",
+      "lapas",
+      "Almejas"
     ]
   },
   {
-    "question": "Which fruit technically has a wasp inside of it?",
-    "answer": "Figs",
+    "question": "¿Qué fruta técnicamente tiene una avispa dentro?",
+    "answer": "higos",
     "choices": [
       "Papaya",
-      "Figs",
-      "Passion Fruit",
+      "higos",
+      "Maracuyá",
       "Mango"
     ]
   },
   {
-    "question": "How Many Years Of Sushi Chef Training Does It Take To Be Trusted To Make The Rice?",
-    "answer": "5 years",
+    "question": "¿Cuántos años de entrenamiento como chef de sushi se necesitan para ser de confianza para hacer el arroz?",
+    "answer": "5 años",
     "choices": [
-      "10 years",
-      "1 years",
-      "3 years",
-      "5 years"
+      "10 años",
+      "1 año",
+      "3 años",
+      "5 años"
     ]
   },
   {
-    "question": "Is ice cream a soup?",
-    "answer": "Maybe??",
+    "question": "¿En qué mineral se convirtió la mantequilla de maní por los científicos?",
+    "answer": "Diamante",
     "choices": [
-      "Yes Totally",
-      "Maybe??"
-    ]
-  },
-  {
-    "question": "Peanut Butter Was Turned Into What Mineral By Scientists?",
-    "answer": "Diamond",
-    "choices": [
-      "A Ruby",
+      "Un rubí",
       "Zinc",
-      "Diamond",
-      "Quartz"
+      "Diamante",
+      "Cuarzo"
     ]
   },
   {
-    "question": "Which Nut Is Used To Make Dynamite?",
-    "answer": "Peanuts",
+    "question": "¿Qué nuez se usa para hacer dinamita?",
+    "answer": "Miseria",
     "choices": [
-      "Almonds",
-      "Walnuts",
-      "Peanuts",
-      "Cashews"
+      "Almendras",
+      "Nueces",
+      "Miseria",
+      "Anacardos"
     ]
   },
   {
-    "question": "In What Country Was Ice Cream Invented?",
+    "question": "¿En qué país se inventó el helado?",
     "answer": "China",
     "choices": [
-      "United States",
+      "Estados Unidos",
       "India",
       "Nigeria",
       "China"
