@@ -2,10 +2,7 @@
 <resources>
     <string name="app_name">QuizApp</string>
     <string name="questions">Preguntas</string>
-    <string name="main_buttonA">Botón</string>
-    <string name="main_buttonB">Botón</string>
-    <string name="main_buttonC">Botón</string>
-    <string name="main_buttonD">Botón</string>
+    <string name="main_button">Botón</string>
     <string name="main_finalScore">Puntos Final: %1$s</string>
     <string name="main_playAgain">Juega de Nuevo</string>
     <string name="main_score">Puntos: %1$s</string>
